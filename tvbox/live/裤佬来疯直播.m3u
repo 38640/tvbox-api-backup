@@ -1,13 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="👖裤佬来疯直播",👖裤佬来疯直播
 #EXTM3U
-#EXTINF:-1 tvg-id="9418871" tvg-name="墨言*" tvg-logo="https://yimage.laifeng.com/image/CF1B1803FDDA47899B5D78534C1385C5?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="新人",墨言*
-https://laifeng.445569.xyz/live/9418871
+#EXTINF:-1 tvg-id="9418879" tvg-name="锦溪阁" tvg-logo="https://yimage.laifeng.com/image/BE7E868072BC43E397D2F9887633D295?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="新人",锦溪阁
+https://laifeng.445569.xyz/live/9418879
 #EXTINF:-1 tvg-id="9418848" tvg-name="新人小九没人疼" tvg-logo="https://yimage.laifeng.com/image/EE68408D81A64408BD83A2DFEF4DFEB7?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="新人",新人小九没人疼
 https://laifeng.445569.xyz/live/9418848
+#EXTINF:-1 tvg-id="71318" tvg-name="来自于性感海洋" tvg-logo="https://yimage.laifeng.com/image/D7700710D1FB4FD886F25A52CE74EE69.jpg?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="音乐",来自于性感海洋 - 有问题上麦
+https://laifeng.445569.xyz/live/71318
+#EXTINF:-1 tvg-id="8138715" tvg-name="李纯儿" tvg-logo="https://yimage.laifeng.com/image/0954170DD279426EB48286B92DA1DBE7?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",李纯儿
+https://laifeng.445569.xyz/live/8138715
 #EXTINF:-1 tvg-id="8161394" tvg-name="熙儿从心开始" tvg-logo="https://image.laifeng.com/0A0200006579CCDBFE567EFB1BE4FC16?x-oss-process=null/format,png" group-title="颜值",熙儿从心开始
 https://laifeng.445569.xyz/live/8161394
-#EXTINF:-1 tvg-id="9414436" tvg-name="ᵀᴼᴾ知恩" tvg-logo="https://yimage.laifeng.com/image/10BDF7F5D9424AB4A19B54ACECF34FC7?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",ᵀᴼᴾ知恩
-https://laifeng.445569.xyz/live/9414436
+#EXTINF:-1 tvg-id="8146213" tvg-name="新主播瑞琳" tvg-logo="https://yimage.laifeng.com/image/1A9819086A2C41A2BDAB57BDBE19ABB9?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",新主播瑞琳
+https://laifeng.445569.xyz/live/8146213
 #EXTINF:-1 tvg-id="9415407" tvg-name="甜心的36度C" tvg-logo="https://yimage.laifeng.com/image/D549316BC39243CE9C424E5144D645EE?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",甜心的36度C
 https://laifeng.445569.xyz/live/9415407
+#EXTINF:-1 tvg-id="9414697" tvg-name="小七贺先生升级" tvg-logo="https://yimage.laifeng.com/image/7C5B6F833FA8467B82C476AB63A1871C?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="脱口秀",小七贺先生升级
+https://laifeng.445569.xyz/live/9414697
