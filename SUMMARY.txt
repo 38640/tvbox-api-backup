@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261125_010356
+TVBox 接口抓取报告  20261126_010345
 ==============================================================
 
 [裤佬线路] okhttp/3.15
@@ -216,10 +216,10 @@ TVBox 接口抓取报告  20261125_010356
   文件: tvbox/心魔.json
   成功URL: https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json
 
-[分享者] okhttp/3.15
-  状态: TEXT
-  文件: tvbox/分享者.json
-  成功URL: http://hucongrong.web3v.work/风水/fxz/fxz.json
+[分享者] 
+  状态: FAILED
+  文件: None
+  成功URL: 
 
 [传说] okhttp/3.15
   状态: TEXT
