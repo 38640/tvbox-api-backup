@@ -53,7 +53,8 @@ py_yinhuaone|樱花｜动漫|type: 3|api: https://clun.top/py/yinhuaone.py
 七星短剧|🎬七星丨短剧|type: 3|api: https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py
 爱听音乐py|♦｜爱听｜音乐|type: 3|api: https://chigua.eu.org/py/爱听音乐.py
 push_agent|UC盘|type: 3|api: https://fastlink.cokey.xyz/f/wwbBcj/%E7%BD%91%E7%9B%98%E6%90%9C%E7%B4%A2.py
-未来赶不上|赶不上未来|type: 3|api: https://mpimg.cn/down.php/efe726ad69c79898714773fc6ab499af.py
+小鹿|小鹿|type: 3|api: https://mpimg.cn/down.php/2c4900efe3f58cf239fdbbf28f787f59.py
+大师兄|大师兄|type: 3|api: https://mpimg.cn/down.php/9f46cd2d278e847a096e1543fb81329b.py
 秒看|秒看|APP|type: 3|api: https://pan.szfx.top/down.php/82192de86986cf1d3146ecdcf3b6dc7d.py
 红果|红果|type: 3|api: https://meow.668yun.top/api/s/75EKQrnPG4inVvDlqfph3ygaFWsZdMv5/红果.py
 qkw1|全看影院|type: 3|api: https://mpimg.cn/down.php/dd661a252935cd30df6aa185e23d4488.py
@@ -66,12 +67,12 @@ SZ|山楂影视|type: 3|api: https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d93
 看剧AI|看剧AI|type: 3|api: https://mpimg.cn/down.php/f05fb3db58ed6eeb41e2e850f4b09115.py
 山木|山木|type: 3|api: https://fastlink.cokey.xyz/f/p6rZcj/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.py
 橘汁|橘汁|type: 3|api: https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py
-高清点播|高清点播|type: 3|api: https://pan.29o.cn/down.php/323eba3848f29250c407a014113c784a.py
+高清点播|高清点播|type: 3|api: https://pan.vron.cn/down.php/323eba3848f29250c407a014113c784a.py
 剧下饭|♨️下饭｜4K线路|type: 3|api: https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/jxf.py
 咕噜|咕噜|type: 3|api: https://mpimg.cn/down.php/2542f809bfd6602273ad747965ce77f9.py
 青麦|青麦|type: 3|api: https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py
 漫闪|漫闪|type: 3|api: https://mpimg.cn/down.php/37a8852cebefc099a91b65fcccb5a375.py
-云播|云播|type: 3|api: https://pan.29o.cn/down.php/50044f29473ab3d13de5d21fdf224154.py
+云播|云播|type: 3|api: https://pan.vron.cn/down.php/50044f29473ab3d13de5d21fdf224154.py
 歪比巴卜|巴卜|type: 3|api: https://mpimg.cn/down.php/6f7f933b02ae7a30553c474642e92347.py
 4kav|4kav|type: 3|api: https://pan.szfx.top/down.php/1fa2308fcccbbd9d125344104d9ca158.py
 Acfun|Acfun|type: 3|api: https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py
@@ -85,7 +86,7 @@ jieyingshi|界影|type: 3|api: https://fastlink.cokey.xyz/f/5rMnUd/jieyingshi.py
 丧尸|丧尸|type: 3|api: https://mpimg.cn/down.php/9678aa77539e99560d71475e0dd0fddd.py
 鬼片网|鬼屋|type: 3|api: https://fastlink.cokey.xyz/f/5EGnHd/%E9%AC%BC%E7%89%87%E7%BD%91.py
 鬼|鬼片之家|type: 3|api: https://fastlink.cokey.xyz/f/nL1Acm/%E9%AC%BC%E7%89%87%E4%B9%8B%E5%AE%B6.py
-甜圈短剧|甜圈短剧|type: 3|api: https://pan.29o.cn/down.php/e9c44ed748739aeb4abfdb3408631302.py
+甜圈短剧|甜圈短剧|type: 3|api: https://pan.vron.cn/down.php/e9c44ed748739aeb4abfdb3408631302.py
 短剧｜聚合|聚合剧➋|type: 3|api: http://nn.4688888.xyz/py/短剧聚合.py
 界影PY|界影|type: 3|api: https://mpimg.cn/down.php/4440a9a56b6d222647a856452eefb21a.py
 央视PY|丨央视丨|type: 3|api: https://mpimg.cn/down.php/a01436462aacba707ad6b678fe42cfa1.py
@@ -96,7 +97,7 @@ jieyingshi|界影|type: 3|api: https://fastlink.cokey.xyz/f/5rMnUd/jieyingshi.py
 皮皮虾|♨️皮虾｜皮皮|type: 3|api: https://pan.szfx.top/down.php/540e0c721a30390c4f5d2d77b8286905.py
 剧王短剧|剧王｜短剧|type: 3|api: https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py
 七猫|七猫｜短剧|type: 3|api: https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py
-qw|七味|type: 3|api: https://pan.29o.cn/down.php/64c724e1188ce33d5e8f04eccbcd455e.py
+qw|七味|type: 3|api: https://pan.vron.cn/down.php/64c724e1188ce33d5e8f04eccbcd455e.py
 bilibili|B站｜星源|type: 3|api: https://11405.kstore.space/xiaye/js/哔哩合集.py
 bl|❤小哩｜4K测试|type: 3|api: https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py
 妙看|🌀妙看｜1920|type: 3|api: https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/4kvms.py
@@ -129,6 +130,7 @@ py_咖啡直播|⚽咖啡🔹球赛|type: 3|api: https://7337.kstore.vip/xw/py/�
 23|👖听书|type: 3|api: https://jsnz.pages.dev/f/d44dd2cf.py
 24|👖有声|type: 3|api: https://jsnz.pages.dev/f/e126d1e4.py
 测试专用|📌测试|type: 3|api: https://jsnz.pages.dev/f/e7124867.py
+未来赶不上|赶不上未来|type: 3|api: https://mpimg.cn/down.php/efe726ad69c79898714773fc6ab499af.py
 py_6v|☀六微🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/6v.py
 py_周六影库|☀周六🔹颖院|type: 3|api: https://7337.kstore.vip/xw/py/周六影库.py
 py_华数|☀华数🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/华数.py
